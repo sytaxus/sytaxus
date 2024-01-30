@@ -30,7 +30,7 @@ Additional:
 [![My Skills](https://skillicons.dev/icons?i=docker,git,linux,arduino,cpp,cloudflare,powershell,raspberrypi,vite)](https://skillicons.dev)
 
 # Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sytaxus&hide=contribs,prs)
 
 
 ![](https://komarev.com/ghpvc/?username=sytaxus&color=grey)
