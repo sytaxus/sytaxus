@@ -31,7 +31,7 @@ Additional:
 
 # Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sytaxus&show_icons=true&theme=tokyonight" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sytaxus&show_icons=true&theme=tokyonight" style="margin-right: 100px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sytaxus&layout=compact&theme=tokyonight" />
 </p>
 
