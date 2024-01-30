@@ -32,7 +32,7 @@ Additional:
 # Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sytaxus&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sytaxus&hide_progress=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sytaxus" />
 </p>
 
 
