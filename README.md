@@ -30,10 +30,8 @@ Additional:
 [![My Skills](https://skillicons.dev/icons?i=docker,git,linux,arduino,cpp,cloudflare,powershell,raspberrypi,vite)](https://skillicons.dev)
 
 # Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sytaxus&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sytaxus&hide_progress=true" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sytaxus&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sytaxus&hide_progress=true)
 
 
 ![](https://komarev.com/ghpvc/?username=sytaxus&color=grey)
