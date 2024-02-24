@@ -5,7 +5,7 @@ l---------------------------------------------------------------------------l
 l---------------------------------------------------------------------------l
 
 # Sudo `whoami` 👋
-Greetings! I'm Nour, an 18 year-old University student pursuing a bachelor in Computer science, with a keen interest in technology and programming. My journey began with a fascination for computers during my early years, leading me to explore the world of programming with `Python` as my initial language. As I delved deeper, I discovered a passion for backend web development and later ventured into Cybersecurity, focusing on WebSec and Network Exploitation.
+Greetings! I'm an 18 year-old University student pursuing a bachelor in Computer science, with a keen interest in technology and programming. My journey began with a fascination for computers during my early years, leading me to explore the world of programming with `Python` as my initial language. As I delved deeper, I discovered a passion for backend web development and later ventured into Cybersecurity, focusing on WebSec and Network Exploitation.
 
 My Linux journey started with Ubuntu and Arch (I use Arch btw!). Eager to understand system exploitation, I dived into finding vulnerabilities and improving my skills in developing exploits, this is where Python came in handy.... Currently, I am expanding my knowledge, striving to reserve my niche in the industry. Exciting times lie ahead as I continue to explore and contribute to the ever evolving tech landscape!
 
