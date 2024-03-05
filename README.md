@@ -1,4 +1,3 @@
-![tryhackme stats](https://raw.githubusercontent.com/<snrx86>/<snrx86>/master/assets/thm_propic.png)
 l---------------------------------------------------------------------------l
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56F7A2&random=false&width=435&lines=CyberSecurity+%26+Full+Stack+Web++Dev.;Penetration+Testing.;VoltSec+CTF)](https://git.io/typing-svg)
