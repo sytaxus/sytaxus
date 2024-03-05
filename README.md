@@ -24,12 +24,15 @@ Frameworks, Databases & Backend:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,next,express,firebase,mongodb)](https://skillicons.dev)
 
-
-Additional:
+More:
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,linux,arduino,cpp,cloudflare,powershell,raspberrypi,vite)](https://skillicons.dev)
 
+
+Additional:
+
 [![Tryhackme](https://img.shields.io/badge/Tryhackme-%23E4405F.svg?logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/snrx86)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/snrx86.png)](https://tryhackme.com/p/snrx86)<br>
 
 # Statistics
 <p align="center">
