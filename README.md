@@ -24,7 +24,6 @@ Frameworks, Databases & Backend:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,next,express,firebase,mongodb)](https://skillicons.dev)
 
-![tryhackme stats](https://raw.githubusercontent.com/snrx86/snrx86/master/assets/thm_propic.png)
 
 Additional:
 
