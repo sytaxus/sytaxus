@@ -32,7 +32,7 @@ More:
 Additional:
 
 [![Tryhackme](https://img.shields.io/badge/Tryhackme-%23E4405F.svg?logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/snrx86)
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/snrx86.png)](https://tryhackme.com/p/snrx86)<br>
+[![Tryhackme](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/1540330)
 
 # Statistics
 <p align="center">
